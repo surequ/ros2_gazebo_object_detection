@@ -1,0 +1,2 @@
+# ros2_gazebo_object_detection
+ros2を使ったGazeboでの用物体検出ロジックパッケージ
